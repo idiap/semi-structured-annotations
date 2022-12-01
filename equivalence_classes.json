@@ -1,0 +1,1290 @@
+[
+  {
+    "annotation": "scope",
+    "evaluation": "temporal scope",
+    "equivalence_classes": [
+      [
+        "right away",
+        "quickly",
+        "now",
+        "shortly"
+      ],
+      [
+        "on Wednesday"
+      ],
+      [
+        "soon",
+        "anytime soon",
+        "any time soon",
+        "relatively soon",
+        "fairly soon"
+      ],
+      [
+        "this month",
+        "later this month"
+      ],
+      [
+        "in June"
+      ],
+      [
+        "in December"
+      ],
+      [
+        "this year",
+        "later this year",
+        "before the end of the year",
+        "by the end of the year",
+        "by the end of this year",
+        "later in the year",
+        "sometime this year"
+      ],
+      [
+        "next year",
+        "in the new year",
+        "in the coming year"
+      ],
+      [
+        "for now",
+        "at this time"
+      ],
+      [
+        "for some time",
+        "for a considerable period",
+        "for an ''extended period.''",
+        "for a while",
+        "for \"a considerable period.\"",
+        "''for an extended period.''"
+      ],
+      [
+        "at a ''measured'' pace",
+        "gradually"
+      ],
+      [
+        "over the months ahead",
+        "in the months ahead",
+        "in coming months",
+        "in the coming months",
+        "in coming weeks and months"
+      ],
+      [
+        "over the next few years"
+      ]
+    ]
+  },
+  {
+    "annotation": "motive",
+    "evaluation": "motive",
+    "equivalence_classes": [
+      [
+        "to fight inflation",
+        "to keep inflation in check",
+        "to curb inflation",
+        "to keep inflation under control",
+        "to head off inflation",
+        "to stop inflation",
+        "to keep inflation pressures from worsening",
+        "to keep inflation low",
+        "to control inflation",
+        "to contain inflation",
+        "to combat inflation",
+        "to avert inflation",
+        "to battle inflation",
+        "to control inflationary pressures in the economy",
+        "to counteract signs of worsening inflation",
+        "to ensure that inflation does not flare any higher",
+        "to help keep inflation in check",
+        "to try to check inflation",
+        "to try to fight inflation",
+        "to curtail the strong growth of the money supply",
+        "to keep inflationary pressures under control",
+        "to make sure inflation remained under control"
+      ],
+      [
+        "to stimulate the economy",
+        "to avoid a recession",
+        "in an effort to stimulate the sluggish economy",
+        "in hopes of bolstering the economy",
+        "in order to prevent a serious downturn",
+        "to counter the factors that were restraining growth",
+        "to keep the economy moving ahead",
+        "to keep the wheels of the financial system turning",
+        "to maintain stable growth",
+        "to spur growth in what they viewed as a sluggish economy",
+        "in an attempt to stave off recession",
+        "to keep the economy from tipping into recession",
+        "to keep the economy from tumbling into recession",
+        "to promote moderate growth over time",
+        "to try to bolster consumer spending",
+        "to prevent low inflation from turning into deflation"
+      ],
+      [
+        "to slow the economy",
+        "to keep the economy from overheating",
+        "to prevent the economy from overheating",
+        "to slow an overheated economy",
+        "to succeed in slowing economic growth and curbing the threat of inflation"
+      ],
+      [
+        "to turn the economy onto the path of sustained recovery",
+        "to promote a stronger economic recovery",
+        "to jolt the weak recovery",
+        "to support the economic recovery",
+        "to support the recovery",
+        "in an effort to revive growth",
+        "to spur a more rapid pace of recovery"
+      ],
+      [
+        "bringing relief to the tight credit markets",
+        "meant to unlock the struggling credit markets",
+        "to encourage more commercial lending",
+        "to ease the supply of credit in the money market",
+        "solely to offset the unusual tightening of credit by commercial lenders"
+      ],
+      [
+        "to promote maximum employment and price stability"
+      ]
+    ]
+  },
+  {
+    "annotation": "evidence",
+    "evaluation": "evidence",
+    "equivalence_classes": [
+      [
+        "inflation",
+        "''some inflation risks remain,''",
+        "the threat of inflation",
+        "resurgence in inflation",
+        "inflation was too high",
+        "inflation remained a concern",
+        "concerns about inflation",
+        "anti-inflationary policies",
+        "greater concern about the risk of higher inflation",
+        "nagging inflation"
+      ],
+      [
+        "low inflation",
+        "a further and substantial decline in inflation",
+        "a slower pace of consumer inflation"
+      ],
+      [
+        "the dollar had ''fallen enough''",
+        "a weakening dollar",
+        "concerns over a decline of the dollar"
+      ],
+      [
+        "to respond to explosive growth in the nation’s money supply",
+        "unexpectedly large increase in the money supply"
+      ],
+      [
+        "because of a desire for faster growth in the money supply"
+      ],
+      [
+        "a concern about deflation",
+        "because of the threat of deflation",
+        "concern about prices falling further"
+      ],
+      [
+        "high oil prices"
+      ],
+      [
+        "falling oil prices"
+      ],
+      [
+        "deterioration in housing",
+        "partly reflecting the cooling of the housing market",
+        "slide in housing activity and prices",
+        "the dangers posed by the twin storms in housing and mortgage lending",
+        "the intensification of the housing correction"
+      ],
+      [
+        "credit was becoming harder to get for both consumers and businesses",
+        "in light of weakness in the money and credit aggregates",
+        "tightening of credit availability"
+      ],
+      [
+        "weak economic data",
+        "economic weakness",
+        "citing indications of weakening in the economy",
+        "citing evidence of economic weakness and little sign of inflation",
+        "evidence of weakening in economic activity"
+      ],
+      [
+        "a surge in unemployment and other negative economic data",
+        "companies had recently cut both production and employment",
+        "high unemployment rate",
+        "job insecurity",
+        "unemployment claims and lending standards were up"
+      ],
+      [
+        "because of the strengthening economy",
+        "increased sales of homes and autos and the rising stock market as evidence",
+        "upbeat assessment of the economy",
+        "additional increases in employment",
+        "strengths in the economy",
+        "strong consumer spending",
+        "strong labor market conditions"
+      ],
+      [
+        "a continuing moderation in economic growth",
+        "slowing growth in productivity",
+        "a drop in productivity growth",
+        "based on a variety of signs of little pickup in economic growth",
+        "amid signs the economic growth was moderating",
+        "slow growth"
+      ]
+    ]
+  },
+  {
+    "annotation": "attribution",
+    "evaluation": "attribution",
+    "equivalence_classes": [
+      [
+        "Greenspan"
+      ],
+      [
+        "Bernanke"
+      ],
+      [
+        "Volcker"
+      ],
+      [
+        "Yellen"
+      ],
+      [
+        "Burns"
+      ],
+      [
+        "Fisher"
+      ],
+      [
+        "Dudley"
+      ],
+      [
+        "Powell"
+      ],
+      [
+        "Miller"
+      ],
+      [
+        "Hoenig"
+      ],
+      [
+        "Lacker"
+      ],
+      [
+        "Rosengren"
+      ],
+      [
+        "Kocherlakota"
+      ],
+      [
+        "Evans"
+      ],
+      [
+        "Wallich"
+      ],
+      [
+        "Plosser"
+      ],
+      [
+        "Brimmer"
+      ],
+      [
+        "Meyer"
+      ],
+      [
+        "Seger"
+      ],
+      [
+        "Parry"
+      ],
+      [
+        "Hayes"
+      ],
+      [
+        "Martin"
+      ],
+      [
+        "Lockhart"
+      ],
+      [
+        "Bullard"
+      ],
+      [
+        "Poole"
+      ],
+      [
+        "Moskow"
+      ],
+      [
+        "Jordan"
+      ],
+      [
+        "Maisel"
+      ],
+      [
+        "George"
+      ],
+      [
+        "Brainard"
+      ],
+      [
+        "Angell"
+      ],
+      [
+        "Williams"
+      ],
+      [
+        "Teeters"
+      ],
+      [
+        "Kohn"
+      ],
+      [
+        "Hoskins"
+      ],
+      [
+        "Francis"
+      ],
+      [
+        "Black"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act labels",
+    "equivalence_classes": [
+      [
+        "Did not raise rates",
+        "Did not raise interest rates",
+        "Did not tighten monetary policy"
+      ],
+      [
+        "Did raise rates",
+        "Raised interest rates",
+        "Did raise interest rates",
+        "Tightened monetary policy",
+        "Slightly tightened monetary policy",
+        "Tightened monetary policy slightly"
+      ],
+      [
+        "Did not raise/cut rates",
+        "Left interest rates unchanged",
+        "Kept interest rates unchanged",
+        "Did not change interest rates",
+        "Did not raise/cut interest rates",
+        "Did not tighten/loosen monetary policy",
+        "Did not change monetary policy",
+        "Left monetary policy unchanged"
+      ],
+      [
+        "Did not cut rates",
+        "Did not cut interest rates",
+        "Did not loosen monetary policy"
+      ],
+      [
+        "Cut interest rates",
+        "Did cut interest rates",
+        "Loosened monetary policy",
+        "Loosened monetary policy slightly",
+        "Eased monetary policy",
+        "Slightly eased monetary policy",
+        "Slightly loosened monetary policy"
+      ],
+      [
+        "Did raise discount rate",
+        "Raised discount rate",
+        "Raised the discount rate"
+      ],
+      [
+        "Did not raise discount rate"
+      ],
+      [
+        "Did cut discount rate",
+        "Cut discount rate",
+        "Cut the discount rate"
+      ],
+      [
+        "Might raise rates, in future",
+        "Might raise rates",
+        "Might raise rates, gradually",
+        "Might tighten monetary policy"
+      ],
+      [
+        "Might cut rates, in future",
+        "Might cut rates",
+        "Might loosen monetary policy",
+        "Might loosen monetary policy, in future"
+      ],
+      [
+        "Might not raise rates",
+        "Might not raise rates, in future"
+      ],
+      [
+        "Might not cut rates",
+        "Might not cut rates, in future"
+      ],
+      [
+        "Might continue/expand asset purchase program / QE"
+      ],
+      [
+        "Might slow asset purchase program / QE"
+      ],
+      [
+        "Could restart asset purchase program / QE"
+      ],
+      [
+        "Will raise rates, in future",
+        "Will raise rates",
+        "Will raise rates gradually",
+        "Will tighten monetary policy"
+      ],
+      [
+        "Will not raise rates",
+        "Will not raise rates, right now",
+        "Will not tighten monetary policy",
+        "Will not tighten monetary policy, right now"
+      ],
+      [
+        "Will not cut rates",
+        "Will not loosen monetary policy",
+        "Will not loosen monetary policy further"
+      ],
+      [
+        "Will restart asset purchase program / QE"
+      ],
+      [
+        "Should raise rates",
+        "Should raise rates now",
+        "Should raise rates soon",
+        "Should raise rates gradually",
+        "Should raise interest rates",
+        "Should tighten monetary policy",
+        "Should tighten monetary policy even more"
+      ],
+      [
+        "Should not raise rates",
+        "Should not raise rates, right now",
+        "Should not raise interest rates",
+        "Should not tighten monetary policy",
+        "Should not tighten monetary policy now"
+      ],
+      [
+        "Should not raise the discount rate"
+      ],
+      [
+        "Should cut rates",
+        "Should loosen monetary policy"
+      ],
+      [
+        "Should not cut rates",
+        "Should not cut rates, right now",
+        "Should not cut interest rates",
+        "Should not loosen monetary policy",
+        "Should not ease monetary policy",
+        "Should not loosen monetary policy, right now",
+        "Should not loosen monetary policy right now"
+      ],
+      [
+        "Should continue asset purchase program / QE",
+        "Should not slow asset purchase program / QE"
+      ],
+      [
+        "Should slow asset purchase program / QE"
+      ],
+      [
+        "Should restart asset purchase program / QE"
+      ],
+      [
+        "Should not restart asset purchase program / QE"
+      ],
+      [
+        "Added reserves"
+      ],
+      [
+        "Raised reserve requirements",
+        "Increased reserve requirements"
+      ],
+      [
+        "Reduced reserve requirements",
+        "Cut reserve requirements"
+      ],
+      [
+        "Drained reserves",
+        "Drained reserves / did raise rates"
+      ],
+      [
+        "Continued/expanded asset purchase program / QE"
+      ],
+      [
+        "Ending asset purchase program"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act",
+    "equivalence_classes": [
+      [
+        "decided to hold interest rates steady",
+        "decided to leave interest rates unchanged",
+        "had voted to leave short-term interest rates unchanged",
+        "held interest rates steady",
+        "held its benchmark interest rate steady",
+        "held rates steady",
+        "kept short-term interest rates at 1 percent",
+        "left interest rates unchanged",
+        "left its benchmark interest rate unchanged",
+        "left monetary policy unchanged",
+        "left rates unchanged",
+        "left short-term interest rates unchanged",
+        "left the rate unchanged",
+        "refrained from altering monetary policy",
+        "took no action on interest rates",
+        "voted [REFERENCE_START] today [REFERENCE_END] to leave interest rates unchanged",
+        "voted to keep short-term interest rates near zero",
+        "voted to leave interest rates unchanged",
+        "voted today to hold interest rates steady"
+      ],
+      [
+        "decided to raise its benchmark interest rates a quarter point",
+        "increased rates",
+        "pushed interest rates higher",
+        "raised interest rates",
+        "raised interest rates by a quarter of a percentage point",
+        "raised its benchmark interest rate",
+        "raised rates by a quarter-point",
+        "raised short-term interest rates",
+        "raised short-term interest rates by half a percentage point",
+        "raised short-term interest rates by three-quarters of a percentage point",
+        "raised short-term rates",
+        "voted for a rate increase",
+        "voted to raise rates"
+      ],
+      [
+        "were leaning toward a rate increase",
+        "might raise interest rates"
+      ],
+      [
+        "might cut interest rates"
+      ],
+      [
+        "favored an immediate rate increase"
+      ],
+      [
+        "decided against raising interest rates",
+        "did not raise interest rates"
+      ],
+      [
+        "cut rates",
+        "cut rates by a quarter of a percentage point",
+        "cut short-term interest rates",
+        "lowered interest rates"
+      ],
+      [
+        "raised the discount rate"
+      ],
+      [
+        "cut its discount rate",
+        "cut the discount rate"
+      ],
+      [
+        "began easing monetary policy",
+        "eased monetary policy",
+        "eased policy",
+        "had decided to ease policy slightly"
+      ],
+      [
+        "tightened monetary policy"
+      ],
+      [
+        "added reserves to the banking system"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act label modals (positive)",
+    "equivalence_classes": [
+      [
+        "Cut discount rate",
+        "Cut interest rates",
+        "Cut interest rates by a quarter of a percentage point",
+        "Cut interest rates; cut discount rate",
+        "Cut reserve requirements",
+        "Cut the discount rate",
+        "Did cut discount rate",
+        "Did cut interest rates",
+        "Did raise discount rate",
+        "Did raise interest rates",
+        "Did raise rates",
+        "Eased monetary policy",
+        "Loosened monetary policy",
+        "Loosened monetary policy slightly",
+        "Raised discount rate",
+        "Raised interest rates",
+        "Raised interest rates by a half a percentage point",
+        "Raised interest rates by a quarter of a percentage point",
+        "Raised interest rates by half a percentage point",
+        "Raised reserve requirements",
+        "Raised the discount rate",
+        "Slightly eased monetary policy",
+        "Slightly loosened monetary policy",
+        "Slightly tightened monetary policy",
+        "Tightened monetary policy",
+        "Tightened monetary policy slightly"
+      ],
+      [
+        "Will end asset purchase program / QE",
+        "Will raise rates",
+        "Will raise rates gradually",
+        "Will raise rates, in future",
+        "Will restart asset purchase program / QE",
+        "Will tighten monetary policy"
+      ],
+      [
+        "Might continue/expand asset purchase program / QE",
+        "Might cut rates",
+        "Might cut rates, in future",
+        "Might loosen monetary policy",
+        "Might loosen monetary policy, in future",
+        "Might raise rates",
+        "Might raise rates more aggressively/faster",
+        "Might raise rates, gradually",
+        "Might raise rates, in future",
+        "Might slow asset purchase program / QE",
+        "Might tighten monetary policy"
+      ],
+      [
+        "Should continue asset purchase program / QE",
+        "Should cut rates",
+        "Should loosen monetary policy",
+        "Should raise interest rates",
+        "Should raise rates",
+        "Should raise rates faster",
+        "Should raise rates gradually",
+        "Should raise rates now",
+        "Should raise rates soon",
+        "Should restart asset purchase program / QE",
+        "Should slow asset purchase program / QE",
+        "Should tighten monetary policy",
+        "Should tighten monetary policy even more"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act label modals (negative)",
+    "equivalence_classes": [
+      [
+        "Did not change interest rates",
+        "Did not change monetary policy",
+        "Did not cut interest rates",
+        "Did not cut rates",
+        "Did not loosen monetary policy",
+        "Did not raise discount rate",
+        "Did not raise interest rates",
+        "Did not raise rates",
+        "Did not raise/cut interest rates",
+        "Did not raise/cut rates",
+        "Did not tighten monetary policy",
+        "Did not tighten/loosen monetary policy",
+        "Kept interest rates unchanged",
+        "Left interest rates unchanged",
+        "Left monetary policy unchanged"
+      ],
+      [
+        "Will not cut rates",
+        "Will not loosen monetary policy",
+        "Will not loosen monetary policy further",
+        "Will not raise rates",
+        "Will not raise rates, right now",
+        "Will not tighten monetary policy",
+        "Will not tighten monetary policy, right now"
+      ],
+      [
+        "Might not cut rates",
+        "Might not cut rates, in future",
+        "Might not raise rates",
+        "Might not raise rates, in future"
+      ],
+      [
+        "Should not cut interest rates",
+        "Should not cut rates",
+        "Should not cut rates, right now",
+        "Should not ease monetary policy",
+        "Should not loosen monetary policy",
+        "Should not loosen monetary policy right now",
+        "Should not loosen monetary policy, right now",
+        "Should not raise interest rates",
+        "Should not raise rates",
+        "Should not raise rates, right now",
+        "Should not raise the discount rate",
+        "Should not restart asset purchase program / QE",
+        "Should not slow asset purchase program / QE",
+        "Should not tighten monetary policy",
+        "Should not tighten monetary policy now"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act label negation",
+    "equivalence_classes": [
+      [
+        "Cut discount rate",
+        "Cut interest rates",
+        "Cut the discount rate",
+        "Did cut discount rate",
+        "Did cut interest rates",
+        "Did raise discount rate",
+        "Did raise interest rates",
+        "Did raise rates",
+        "Loosened monetary policy",
+        "Loosened monetary policy slightly",
+        "Might cut rates",
+        "Might cut rates, in future",
+        "Might loosen monetary policy",
+        "Might loosen monetary policy, in future",
+        "Might raise rates",
+        "Might raise rates more aggressively/faster",
+        "Might raise rates, gradually",
+        "Might raise rates, in future",
+        "Might slow asset purchase program / QE",
+        "Might tighten monetary policy",
+        "Raised discount rate",
+        "Raised interest rates",
+        "Raised the discount rate",
+        "Should continue asset purchase program / QE",
+        "Should cut rates",
+        "Should loosen monetary policy",
+        "Should raise interest rates",
+        "Should raise rates",
+        "Should raise rates faster",
+        "Should raise rates gradually",
+        "Should raise rates now",
+        "Should raise rates soon",
+        "Should restart asset purchase program / QE",
+        "Should slow asset purchase program / QE",
+        "Should tighten monetary policy",
+        "Should tighten monetary policy even more",
+        "Slightly eased monetary policy",
+        "Slightly loosened monetary policy",
+        "Slightly tightened monetary policy",
+        "Tightened monetary policy",
+        "Tightened monetary policy slightly",
+        "Will end asset purchase program / QE",
+        "Will raise rates",
+        "Will raise rates gradually",
+        "Will raise rates, in future",
+        "Will restart asset purchase program / QE",
+        "Will tighten monetary policy"
+      ],
+      [
+        "Did not change interest rates",
+        "Did not change monetary policy",
+        "Did not cut interest rates",
+        "Did not cut rates",
+        "Did not loosen monetary policy",
+        "Did not raise discount rate",
+        "Did not raise interest rates",
+        "Did not raise rates",
+        "Did not raise/cut interest rates",
+        "Did not raise/cut rates",
+        "Did not tighten monetary policy",
+        "Did not tighten/loosen monetary policy",
+        "Kept interest rates unchanged",
+        "Left interest rates unchanged",
+        "Left monetary policy unchanged",
+        "Might not cut rates",
+        "Might not cut rates, in future",
+        "Might not raise rates",
+        "Might not raise rates, in future",
+        "Should not cut interest rates",
+        "Should not cut rates",
+        "Should not cut rates, right now",
+        "Should not ease monetary policy",
+        "Should not loosen monetary policy",
+        "Should not loosen monetary policy right now",
+        "Should not loosen monetary policy, right now",
+        "Should not raise interest rates",
+        "Should not raise rates",
+        "Should not raise rates, right now",
+        "Should not raise the discount rate",
+        "Should not restart asset purchase program / QE",
+        "Should not slow asset purchase program / QE",
+        "Should not tighten monetary policy",
+        "Should not tighten monetary policy now",
+        "Will not loosen monetary policy",
+        "Will not loosen monetary policy further",
+        "Will not raise rates",
+        "Will not raise rates, right now",
+        "Will not tighten monetary policy",
+        "Will not tighten monetary policy, right now"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act modals (positive)",
+    "equivalence_classes": [
+      [
+        "added reserves to the banking system",
+        "agreed to tighten credit conditions",
+        "announced its tougher policy",
+        "approved a further move toward monetary ease",
+        "cut its discount rate",
+        "cut rates",
+        "cut short-term interest rates",
+        "decided to raise its benchmark interest rates a quarter point",
+        "left interest rates unchanged",
+        "left rates unchanged",
+        "pushed interest rates higher",
+        "raised interest rates",
+        "raised interest rates by a quarter of a percentage point",
+        "raised its benchmark interest rate",
+        "tightened monetary policy",
+        "took no action on interest rates"
+      ],
+      [
+        "adopted a bias toward higher rates",
+        "adopted a bias toward raising rates in the future",
+        "adopted the bias toward raising rates",
+        "could afford to moderate its assault on inflation",
+        "could also cut rates",
+        "could compensate by reducing short-term interest rates",
+        "could raise interest rates",
+        "decided to stand ready to raise rates",
+        "did not rule out the possibility of rate increases",
+        "encouraged investors to anticipate a small cut",
+        "fueled new concern that the Fed would continue raising rates to restrain growth",
+        "gave a clear reference to the likelihood of another rate increase",
+        "hinted strongly at an interest-rate cut",
+        "indicated the stimulus program could be scaled back",
+        "left ample room for another rate increase",
+        "maintained a bias in favor of raising the interest rate target",
+        "may have to keep raising interest rates",
+        "may still have to raise rates again",
+        "might begin to scale back its stimulus program",
+        "might consider raising rates",
+        "might cut interest rates",
+        "might force a rise in interest rates",
+        "might have to consider cutting interest rates",
+        "might lead to rate increases",
+        "might need to raise rates",
+        "might need to raise short-term interest rates",
+        "might raise interest rates soon anyway",
+        "might raise short-term rates",
+        "might start increasing interest rates",
+        "pledged to guard against such dangers",
+        "raised speculation it might cut interest rates",
+        "remained prepared to expand its efforts",
+        "showed concern over rising prices",
+        "signaled further rate declines",
+        "suggested that the central bank might consider lowering interest rates",
+        "voted 11 to 1 to continue its bias toward tighter rates",
+        "voted to lean toward easing",
+        "voted to lean toward tightening",
+        "would consider lowering interest rates"
+      ],
+      [
+        "advocated raising rates slightly right away",
+        "argued for a tighter credit policy",
+        "called for an immediate increase in rates",
+        "dissented from the decision to leave interest rates unchanged",
+        "favored an immediate rate increase",
+        "must continue raising interest rates",
+        "needed to lift interest rates",
+        "should continue purchasing the securities",
+        "should continue to set a high priority on checking inflation",
+        "should keep raising its benchmark interest rate",
+        "should tighten its policy",
+        "supported further easing",
+        "took the other tack",
+        "took the uncommon step of dissenting in favor of higher rates",
+        "urged a tighter policy with higher short-term interest rates",
+        "urged an immediate rate increase",
+        "voted against maintaining the target federal funds rate",
+        "voted for a directive that favored further monetary easing",
+        "wanted a rate increase",
+        "would support a cut"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act modals (negative)",
+    "equivalence_classes": [
+      [
+        "agreed to leave rates unchanged",
+        "announced that it was holding back from increasing rates",
+        "chose not to lower interest rates",
+        "chose not to raise rates",
+        "chose to keep interest rates unchanged at their last meeting",
+        "decided Tuesday not to raise its benchmark rate",
+        "decided against raising interest rates",
+        "decided against tightening money",
+        "decided to leave interest rates unchanged",
+        "decided to leave policy unchanged",
+        "decided to leave rates steady",
+        "did not raise interest rates",
+        "had voted to leave short-term interest rates unchanged",
+        "has not made any significant changes lately in its monetary policy",
+        "held interest rates steady",
+        "held its benchmark interest rate steady",
+        "held rates steady",
+        "intended to hold interest rates near zero",
+        "kept short-term interest rates at 1 percent",
+        "left interest rates unchanged",
+        "left rates unchanged",
+        "left rates unchanged",
+        "left short-term interest rates unchanged",
+        "maintained its sharply restrictive credit policy",
+        "refrained from altering monetary policy",
+        "voted to keep short-term interest rates near zero"
+      ],
+      [
+        "backed away from its stance in favor of raising the interest rate target",
+        "expected the economy would soon pick up steam",
+        "had room to keep interest rates low",
+        "hinted at a moderating fiscal policy",
+        "is likely to keep the benchmark rate at current levels",
+        "is not inclined to lower short-term interest rates",
+        "is not likely to accommodate the manufacturers soon",
+        "may pause in its rate increases",
+        "might leave interest rates unchanged",
+        "might pause in its program of interest rate increases",
+        "might pause in its rate increases",
+        "might refuse to ease interest rates",
+        "might soon ''pause'' -- that is, hold the benchmark rate steady",
+        "might soon stop raising rates",
+        "might stop raising short-term interest rates",
+        "might temporarily stop its rate increases",
+        "offered a comparatively oblique hint about ending the rate increases",
+        "raised doubts about additional cuts in short-term interest rates",
+        "saw its work as more likely to be finished for the year",
+        "seemed bent on discouraging hopes of cheaper money anytime soon",
+        "signaled it might stop raising interest rates",
+        "suggested it was not leaning toward a cut in interest rates",
+        "thought the end of the rate increases ''was likely to be near.''",
+        "unanimously abandoned its bias toward lower rates",
+        "was being cautious about any further lowering of interest rates",
+        "was leaning toward ending its interest rate increases",
+        "was not inclined to lower interest rates",
+        "will not be as quick to ease monetary policy by reducing interest rates",
+        "would [MOTIVE_START] ''strongly resist'' higher inflation expectations",
+        "would make further cuts in short-term interest rates",
+        "would not be lowering interest rates further"
+      ],
+      [
+        "agreed that it would be prudent to delay any action on rates",
+        "cast a dissenting vote against any reduction in interest rates",
+        "defended a continued tight-money policy",
+        "did not think that lower interest rates would cure problems",
+        "didn't think the time for an exit had come",
+        "dispelled some of the hopes for a rate cut",
+        "dissented against the bias toward tightening",
+        "dissented and voted against a rate increase",
+        "dissented from a policy directive to tighten",
+        "dissented from the rate increase",
+        "dissented, favoring lower growth rates",
+        "favored no change in rates",
+        "noted that caution was needed",
+        "opposed a change in policy",
+        "opposed an easing of rates",
+        "opposed the board's latest increase in a key interest rate",
+        "should do more to raise inflation",
+        "should keep rates near the current low level",
+        "should use interest rates",
+        "should wait before raising rates again",
+        "should wait for stronger data before moving to raise rates",
+        "signaled that they will hold the line on interest rates",
+        "voted against further tightening of the money supply.",
+        "voted against the [SCOPE_START] December [SCOPE_END] rate hike",
+        "voted against the rate increase",
+        "voted against the switch to easier money",
+        "wanted policy to remain unchanged",
+        "wanted to leave the overnight federal funds rate at 4.75 percent"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act negation",
+    "equivalence_classes": [
+      [
+        "cut its discount rate",
+        "cut rates",
+        "cut rates by a quarter of a percentage point",
+        "cut short-term interest rates",
+        "cut the discount rate",
+        "decided to raise its benchmark interest rates a quarter point",
+        "eased monetary policy",
+        "eased policy",
+        "increased rates",
+        "lowered interest rates",
+        "might cut interest rates",
+        "might raise interest rates",
+        "pushed interest rates higher",
+        "raised interest rates",
+        "raised interest rates by a quarter of a percentage point",
+        "raised its benchmark interest rate",
+        "raised its discount rate",
+        "raised rates by a quarter-point",
+        "raised short-term interest rates",
+        "raised short-term interest rates by half a percentage point",
+        "raised short-term interest rates by three-quarters of a percentage point",
+        "raised short-term rates",
+        "raised the discount rate",
+        "tightened monetary policy"
+      ],
+      [
+        "decided against raising interest rates",
+        "decided to hold interest rates steady",
+        "decided to leave interest rates unchanged",
+        "did not raise interest rates",
+        "had voted to leave short-term interest rates unchanged",
+        "held interest rates steady",
+        "held its benchmark interest rate steady",
+        "held rates steady",
+        "intended to keep short-term interest rates near zero",
+        "kept short-term interest rates at 1 percent",
+        "left interest rates unchanged",
+        "left its benchmark interest rate unchanged",
+        "left monetary policy unchanged",
+        "left rates unchanged",
+        "left short-term interest rates unchanged",
+        "left the rate unchanged",
+        "refrained from altering monetary policy",
+        "took no action on interest rates",
+        "voted [REFERENCE_START] today [REFERENCE_END] to leave interest rates unchanged",
+        "voted against the [SCOPE_START] December [SCOPE_END] rate hike",
+        "voted to keep short-term interest rates near zero",
+        "voted to leave interest rates unchanged",
+        "voted today to hold interest rates steady"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act with label modals (positive)",
+    "equivalence_classes": [
+      [
+        "added reserves to the banking system (Cut interest rates)",
+        "agreed to tighten credit conditions (Tightened monetary policy)",
+        "announced its tougher policy (Tightened monetary policy)",
+        "approved a further move toward monetary ease (Loosened monetary policy)",
+        "cut its discount rate (Cut discount rate)",
+        "cut rates (Did cut interest rates)",
+        "cut short-term interest rates (Cut interest rates)",
+        "decided to raise its benchmark interest rates a quarter point (Did raise rates)",
+        "pushed interest rates higher (Tightened monetary policy)",
+        "raised interest rates (Did raise rates)",
+        "raised interest rates by a quarter of a percentage point (Did raise rates)",
+        "raised its benchmark interest rate (Did raise rates)",
+        "tightened monetary policy (Tightened monetary policy)"
+      ],
+      [
+        "adopted a bias toward higher rates (Might raise rates, in future)",
+        "adopted a bias toward raising rates in the future (Might raise rates, in future)",
+        "adopted the bias toward raising rates (Might raise rates)",
+        "could afford to moderate its assault on inflation (Might loosen monetary policy)",
+        "could also cut rates (Might cut rates)",
+        "could compensate by reducing short-term interest rates (Might cut rates)",
+        "could raise interest rates (Might raise rates, in future)",
+        "decided to stand ready to raise rates (Might raise rates)",
+        "did not rule out the possibility of rate increases (Might raise rates, in future)",
+        "encouraged investors to anticipate a small cut (Might cut rates)",
+        "fueled new concern that the Fed would continue raising rates to restrain growth (Might raise rates)",
+        "gave a clear reference to the likelihood of another rate increase (Might raise rates, in future)",
+        "hinted strongly at an interest-rate cut (Might cut rates)",
+        "indicated the stimulus program could be scaled back (Might slow asset purchase program / QE)",
+        "left ample room for another rate increase (Might raise rates)",
+        "maintained a bias in favor of raising the interest rate target (Might raise rates, in future)",
+        "may have to keep raising interest rates (Might raise rates)",
+        "may still have to raise rates again (Might raise rates, in future)",
+        "might begin to scale back its stimulus program (Might slow asset purchase program / QE)",
+        "might consider raising rates (Might raise rates)",
+        "might cut interest rates (Might cut rates)",
+        "might force a rise in interest rates (Might raise rates, in future)",
+        "might have to consider cutting interest rates (Might cut rates, in future)",
+        "might lead to rate increases (Might raise rates)",
+        "might need to raise rates (Might raise rates)",
+        "might need to raise short-term interest rates (Might raise rates)",
+        "might raise interest rates soon anyway (Might raise rates, in future)",
+        "might raise short-term rates (Might raise rates)",
+        "might start increasing interest rates (Might raise rates)",
+        "pledged to guard against such dangers (Might raise rates, in future)",
+        "raised speculation it might cut interest rates (Might cut rates, in future)",
+        "remained prepared to expand its efforts (Might continue/expand asset purchase program / QE)",
+        "showed concern over rising prices (Might raise rates)",
+        "signaled further rate declines (Might cut rates, in future)",
+        "suggested that the central bank might consider lowering interest rates (Might cut rates)",
+        "voted 11 to 1 to continue its bias toward tighter rates (Might raise rates)",
+        "voted to lean toward easing (Might cut rates, in future)",
+        "voted to lean toward tightening (Might raise rates, in future)",
+        "would consider lowering interest rates (Might cut rates)"
+      ],
+      [
+        "advocated raising rates slightly right away (Should raise rates now)",
+        "argued for a tighter credit policy (Should raise rates)",
+        "called for an immediate increase in rates (Should raise rates now)",
+        "dissented from the decision to leave interest rates unchanged (Should raise rates now)",
+        "favored an immediate rate increase (Should raise rates)",
+        "must continue raising interest rates (Should raise rates)",
+        "needed to lift interest rates (Should raise interest rates)",
+        "should continue purchasing the securities (Should continue asset purchase program / QE)",
+        "should continue to set a high priority on checking inflation (Should tighten monetary policy)",
+        "should keep raising its benchmark interest rate (Should raise rates)",
+        "should tighten its policy (Should tighten monetary policy)",
+        "supported further easing (Should cut rates)",
+        "took the other tack (Should tighten monetary policy even more)",
+        "took the uncommon step of dissenting in favor of higher rates (Should raise interest rates)",
+        "urged a tighter policy with higher short-term interest rates (Should tighten monetary policy)",
+        "urged an immediate rate increase (Should raise rates)",
+        "voted against maintaining the target federal funds rate (Should raise rates)",
+        "voted for a directive that favored further monetary easing (Should cut rates)",
+        "wanted a rate increase (Should raise rates)",
+        "would support a cut (Should cut rates)"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act with label modals (negative)",
+    "equivalence_classes": [
+      [
+        "agreed to leave rates unchanged (Did not change interest rates)",
+        "announced that it was holding back from increasing rates (Did not raise rates)",
+        "chose not to lower interest rates (Did not cut rates)",
+        "chose not to raise rates (Did not raise interest rates)",
+        "chose to keep interest rates unchanged at their last meeting (Did not raise rates)",
+        "decided Tuesday not to raise its benchmark rate (Did not raise rates)",
+        "decided against raising interest rates (Did not raise rates)",
+        "decided against tightening money (Did not tighten monetary policy)",
+        "decided to leave interest rates unchanged (Did not raise/cut rates)",
+        "decided to leave policy unchanged (Did not change monetary policy)",
+        "decided to leave rates steady (Did not raise rates)",
+        "did not raise interest rates (Did not raise rates)",
+        "had voted to leave short-term interest rates unchanged (Did not raise rates)",
+        "has not made any significant changes lately in its monetary policy (Did not loosen monetary policy)",
+        "held interest rates steady (Did not raise rates)",
+        "held its benchmark interest rate steady (Did not raise rates)",
+        "held rates steady (Did not change interest rates)",
+        "intended to hold interest rates near zero (Did not raise rates)",
+        "kept short-term interest rates at 1 percent (Did not raise rates)",
+        "left interest rates unchanged (Did not raise rates)",
+        "left interest rates unchanged (Left interest rates unchanged)",
+        "left rates unchanged (Did not raise rates)",
+        "left rates unchanged (Did not raise/cut rates)",
+        "left rates unchanged (Left interest rates unchanged)",
+        "left short-term interest rates unchanged (Did not raise rates)",
+        "maintained its sharply restrictive credit policy (Did not loosen monetary policy)",
+        "refrained from altering monetary policy (Did not raise rates)",
+        "took no action on interest rates (Left interest rates unchanged)",
+        "voted to keep short-term interest rates near zero (Did not raise rates)"
+      ],
+      [
+        "backed away from its stance in favor of raising the interest rate target (Might not raise rates)",
+        "expected the economy would soon pick up steam (Might not cut rates)",
+        "had room to keep interest rates low (Might not raise rates)",
+        "hinted at a moderating fiscal policy (Might not raise rates)",
+        "is likely to keep the benchmark rate at current levels (Might not cut rates)",
+        "is not inclined to lower short-term interest rates (Might not cut rates)",
+        "is not likely to accommodate the manufacturers soon (Might not cut rates, in future)",
+        "may pause in its rate increases (Might not raise rates)",
+        "might leave interest rates unchanged (Might not raise rates)",
+        "might pause in its program of interest rate increases (Might not raise rates)",
+        "might pause in its rate increases (Might not raise rates)",
+        "might refuse to ease interest rates (Might not cut rates)",
+        "might soon ''pause'' -- that is, hold the benchmark rate steady (Might not raise rates)",
+        "might soon stop raising rates (Might not raise rates)",
+        "might stop raising short-term interest rates (Might not raise rates)",
+        "might temporarily stop its rate increases (Might not raise rates, in future)",
+        "offered a comparatively oblique hint about ending the rate increases (Might not raise rates)",
+        "raised doubts about additional cuts in short-term interest rates (Might not cut rates, in future)",
+        "saw its work as more likely to be finished for the year (Might not raise rates)",
+        "seemed bent on discouraging hopes of cheaper money anytime soon (Might not cut rates)",
+        "signaled it might stop raising interest rates (Might not raise rates)",
+        "suggested it was not leaning toward a cut in interest rates (Might not cut rates, in future)",
+        "thought the end of the rate increases ''was likely to be near.'' (Might not raise rates, in future)",
+        "unanimously abandoned its bias toward lower rates (Might not cut rates, in future)",
+        "was being cautious about any further lowering of interest rates (Might not cut rates)",
+        "was leaning toward ending its interest rate increases (Might not raise rates, in future)",
+        "was not inclined to lower interest rates (Might not cut rates)",
+        "will not be as quick to ease monetary policy by reducing interest rates (Might not cut rates)",
+        "would [MOTIVE_START] ''strongly resist'' higher inflation expectations (Might not cut rates)",
+        "would make further cuts in short-term interest rates (Might not cut rates, in future)",
+        "would not be lowering interest rates further (Might not cut rates)"
+      ],
+      [
+        "agreed that it would be prudent to delay any action on rates (Should not raise rates)",
+        "cast a dissenting vote against any reduction in interest rates (Should not cut rates)",
+        "defended a continued tight-money policy (Should not loosen monetary policy)",
+        "did not think that lower interest rates would cure problems (Should not cut rates)",
+        "didn't think the time for an exit had come (Should not slow asset purchase program / QE)",
+        "dispelled some of the hopes for a rate cut (Should not cut rates)",
+        "dissented against the bias toward tightening (Should not raise rates)",
+        "dissented and voted against a rate increase (Should not raise rates)",
+        "dissented from a policy directive to tighten (Should not raise rates, right now)",
+        "dissented from the rate increase (Should not raise rates)",
+        "dissented, favoring lower growth rates (Should not ease monetary policy)",
+        "favored no change in rates (Should not cut rates)",
+        "noted that caution was needed (Should not loosen monetary policy)",
+        "opposed a change in policy (Should not tighten monetary policy)",
+        "opposed an easing of rates (Should not cut rates)",
+        "opposed the board's latest increase in a key interest rate (Should not raise the discount rate)",
+        "should do more to raise inflation (Should not raise rates)",
+        "should keep rates near the current low level (Should not raise interest rates)",
+        "should use interest rates (Should not raise rates)",
+        "should wait before raising rates again (Should not raise rates, right now)",
+        "should wait for stronger data before moving to raise rates (Should not raise rates)",
+        "signaled that they will hold the line on interest rates (Should not raise interest rates)",
+        "voted against further tightening of the money supply. (Should not tighten monetary policy now)",
+        "voted against the [SCOPE_START] December [SCOPE_END] rate hike (Should not raise rates)",
+        "voted against the rate increase (Should not raise rates)",
+        "voted against the switch to easier money (Should not loosen monetary policy)",
+        "wanted policy to remain unchanged (Should not cut rates)",
+        "wanted to leave the overnight federal funds rate at 4.75 percent (Should not cut rates)"
+      ]
+    ]
+  },
+  {
+    "annotation": "act",
+    "evaluation": "act with label negation",
+    "equivalence_classes": [
+      [
+        "cut its discount rate (Cut discount rate)",
+        "cut rates (Did cut interest rates)",
+        "cut short-term interest rates (Cut interest rates)",
+        "decided to raise its benchmark interest rates a quarter point (Did raise rates)",
+        "increased rates (Raised interest rates)",
+        "lowered interest rates (Cut interest rates)",
+        "pushed interest rates higher (Tightened monetary policy)",
+        "raised interest rates (Did raise rates)",
+        "raised its benchmark interest rate (Did raise rates)",
+        "tightened monetary policy (Tightened monetary policy)"
+      ],
+      [
+        "decided to leave interest rates unchanged (Did not raise rates)",
+        "did not raise interest rates (Did not raise rates)",
+        "held interest rates steady (Left interest rates unchanged)",
+        "held rates steady (Did not raise rates)",
+        "held rates steady (Did not raise/cut rates)",
+        "intended to keep short-term interest rates near zero (Will not raise rates)",
+        "kept short-term interest rates at 1 percent (Did not raise rates)",
+        "left interest rates unchanged (Did not raise rates)",
+        "left interest rates unchanged (Left interest rates unchanged)",
+        "left its benchmark interest rate unchanged (Did not raise rates)",
+        "left monetary policy unchanged (Left monetary policy unchanged)",
+        "left rates unchanged (Did not raise rates)",
+        "left short-term interest rates unchanged (Did not raise rates)",
+        "refrained from altering monetary policy (Did not raise rates)",
+        "took no action on interest rates (Left interest rates unchanged)",
+        "voted against the [SCOPE_START] December [SCOPE_END] rate hike (Should not raise rates)",
+        "voted to keep short-term interest rates near zero (Did not raise rates)"
+      ]
+    ]
+  }
+]
