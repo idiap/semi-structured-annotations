@@ -16,9 +16,9 @@ Our goal is to teach seq2seq models to interpret policy announcements. We presen
 
 ## Data
 We provide the following data:
-- [data_fomc_txt](#): Text files for source documents and target annotations.
-- [data_fomc_bert](#): Preprocessed input files for BERT/Transformer models in PyTorch format.
+- [data_fomc_txt](#): Text files for source documents and target annotations. Includes files train.txt, valid.txt and test.txt that contain the ids for the respective split.
 - [data_fomc_bart](#): Preprocessed input files for BART in PyTorch format.
+- [data_fomc_bert](#): Preprocessed input files for BERT/Transformer models in PyTorch format.
 - [data_fomc_filtered_text](#): Preprocessed input files in text format, filtered with either the FilterBERT model or the Oracle strategy.
 - [data_fomc_equiv](#): Equivalence classes evaluation data.
 
