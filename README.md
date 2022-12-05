@@ -15,18 +15,23 @@ This repository contains the code and links to the data and trained models for t
 Our goal is to teach seq2seq models to interpret policy announcements. We present the FOMC dataset on the monetary policy of the Federal Reserve, where source documents are policy announcements and targets are selected and annotated sentences from New York Times articles. We train seq2seq models (Transformer, BERT, BART) to generate the annotated targets conditioned on the source documents. We also introduce an evaluation method called *equivalence classes evaluation*. Equivalence classes group semantically interchangeable values from a specific annotation category. The seq2seq model then has to identify the true continuation among two possibilities from different equivalence classes.    
 
 ## Data
-We provide the following data:
-- [data_fomc_txt](#): Text files for source documents and target annotations. Includes files train.txt, valid.txt and test.txt that contain the ids for the respective split.
-- [data_fomc_bart](#): Preprocessed input files for BART in PyTorch format.
-- [data_fomc_bert](#): Preprocessed input files for BERT/Transformer models in PyTorch format.
-- [data_fomc_filtered_text](#): Preprocessed input files in text format, filtered with either the FilterBERT model or the Oracle strategy.
-- [data_fomc_equiv](#): Equivalence classes evaluation data.
+You can download our data [here](https://drive.switch.ch/index.php/s/rurb4avROAhghn7). The provided data folders are:
+- data_fomc_txt: Text files for source documents and target annotations. Includes files train.txt, valid.txt and test.txt that contain the ids for the respective split.
+- data_fomc_bart: Preprocessed input files for BART in PyTorch format.
+- data_fomc_bert: Preprocessed input files for BERT/Transformer models in PyTorch format.
+- data_fomc_filtered_text: Preprocessed input files in text format, filtered with either the FilterBERT model or the Oracle strategy.
+- data_fomc_equiv: Equivalence classes evaluation data.
+
+The data is shared under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Models
 We provide the following checkpoints of models finetuned on the FOMC dataset:
-- [Transformer](#): Randomly initialized Transformer
-- [BERT](#): BERT encoder, Transformer decoder
-- [BART](#): BART model
+- [Transformer](https://drive.switch.ch/index.php/s/WJKe5e7XUOO3BXA): Randomly initialized Transformer
+- [BERT](https://drive.switch.ch/index.php/s/1bgFsYSFq7WgX4L): BERT encoder, Transformer decoder
+- [BART](https://drive.switch.ch/index.php/s/Zsj9LP3SaHZC93C): BART model
+- [FilterBERT](https://drive.switch.ch/index.php/s/5zLt95szMXg1Yu3): BERT-based model for filtering source documents
+
+The models are shared under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Installation
 First, install conda, e.g. from [Miniconda](https://docs.conda.io/en/latest/miniconda.html). Then create and activate the environment:
