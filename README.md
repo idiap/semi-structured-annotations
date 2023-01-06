@@ -15,14 +15,7 @@ This repository contains the code and links to the data and trained models for t
 Our goal is to teach seq2seq models to interpret policy announcements. We present the FOMC dataset on the monetary policy of the Federal Reserve, where source documents are policy announcements and targets are selected and annotated sentences from New York Times articles. We train seq2seq models (Transformer, BERT, BART) to generate the annotated targets conditioned on the source documents. We also introduce an evaluation method called *equivalence classes evaluation*. Equivalence classes group semantically interchangeable values from a specific annotation category. The seq2seq model then has to identify the true continuation among two possibilities from different equivalence classes.    
 
 ## Data
-You can download our data [here](https://drive.switch.ch/index.php/s/rurb4avROAhghn7). The provided data folders are:
-- data_fomc_txt: Text files for source documents and target annotations. Includes files train.txt, valid.txt and test.txt that contain the ids for the respective split.
-- data_fomc_bart: Preprocessed input files for BART in PyTorch format.
-- data_fomc_bert: Preprocessed input files for BERT/Transformer models in PyTorch format.
-- data_fomc_filtered_text: Preprocessed input files in text format, filtered with either the FilterBERT model or the Oracle strategy.
-- data_fomc_equiv: Equivalence classes evaluation data.
-
-The data is shared under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+Please contact me at andreas.marfurt [at] idiap.ch to get access to the data.
 
 ## Models
 We provide the following checkpoints of models finetuned on the FOMC dataset:
