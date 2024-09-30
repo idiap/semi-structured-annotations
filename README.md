@@ -1,5 +1,5 @@
 # semi-structured-annotations
-This repository contains the code and links to the data and trained models for the paper [A Corpus and Evaluation for Predicting Semi-Structured Human Annotations](#) presented at the GEM workshop at EMNLP 2022.
+This repository contains the code and links to the data and trained models for the paper [A Corpus and Evaluation for Predicting Semi-Structured Human Annotations](https://aclanthology.org/2022.gem-1.22/) presented at the GEM workshop at EMNLP 2022.
 
 ## Contents
 1. [Short Description](#short-description)
